@@ -1,0 +1,5 @@
+[Save Status]!NO![Save Status]
+[Player Stats]*,*[Player Stats]
+[Time]^,^[Time]
+[Money]$0$[Money]
+[Slaves]&,:,&[Slaves]

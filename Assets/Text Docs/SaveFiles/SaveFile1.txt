@@ -1,0 +1,5 @@
+[Save Status]!YES![Save Status]
+[Player Stats]*Odin,Male*[Player Stats]
+[Time]^1,2^[Time]
+[Money]$28000$[Money]
+[Slaves]&Chris,female:Allen,male:Lilly,non-binary&[Slaves]
